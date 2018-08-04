@@ -1,14 +1,19 @@
 ---
 layout: page
-title: About
+title: 我，流云
 permalink: /about/
-feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [About, Test]
+feature-img: "assets/img/pexels/book-glass.jpeg"
+tags: [About]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+这篇应该是讲自我介绍的吧
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+我是个码农。   
+一个不怎么会写，不怎么会学，也不太清楚自己人生应该怎么走的庸人。
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+流云取自河图的《伶仃谣》歌词   
+_流云流走我指尖的沙，风吹旧了黑白色遗画_   
+
+离乡多年，带着不知道是对故乡的思念，还是对故乡人的思念，还是自己对前世的臆想。奈何，没做出什么大事，也只留的躯壳一个，等待一个赶尸人，把我没有做出任何事业的枯骨，和我疲惫的魂魄，带回家乡。
+
+偶然发现 IT 圈其实好多流云。他们好像都很牛逼的样子。但我并不是他们。
